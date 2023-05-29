@@ -1,0 +1,46 @@
+
+{
+  "name": "projects name",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "sv": "json-server ./public/data/data.json --port 4001"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@reduxjs/toolkit": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react-modal": "latest",
+    "@types/react-redux": "latest",
+    "react-redux": "latest",
+    "@vercel/og": "latest",
+    "axios": "latest",
+    "eslint-config-next": "latest",
+    "eslint": "latest",
+    "next": "latest",
+    "next-ga": "latest",
+    "next-navigation": "latest",
+    "next-redux-wrapper": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "latest",
+    "style-loader": "latest",
+    "ts-loader": "latest",
+    "typescript": "latest",
+  },
+  "devDependencies": {
+    "@types/json-server": "latest",
+    "json-server": "latest",
+    "@tanstack/react-query": "latest",
+    "@tanstack/react-query-devtools": "latest",
+    "@types/gtag.js": "latest",
+    "file-loader": "latest"
+  }
+  }
