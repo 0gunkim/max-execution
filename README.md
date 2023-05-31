@@ -23,7 +23,7 @@
 
 # 실행방법
 
-## 1. 원하는 경로에 클론을 받습니다.
+## 1. 원하는 경로에 클론을 받습니다
 
 ```
 https://github.com/Goldenprevue/max-execution.git
