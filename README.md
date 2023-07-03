@@ -5,20 +5,14 @@
 - Front-End 초기세팅
 
 # v0.0.1 (Test)
+# Feature
 
 - css reset
 - prettier
 - global.d.ts
 
-# 업데이트예
 
-- tailwind config.json정
-- next.js 초기설정
-- next.js 초기설정할 때 tailwind가 있다면 tailwind 코드가 포함된 global.css로 설치 reset은 필요없음
-- next.js 서버로직 추가 예정
-- package.json => Next.js13 에 적합한 라이브러리 업데이트 예정
-- 모든 파일 설치 선택권
-- cli 선택할 때 철자 입력말고 선택으로 변경
+
 
 <br />
 
